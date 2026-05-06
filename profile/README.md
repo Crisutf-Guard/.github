@@ -1,7 +1,5 @@
 ## Crisutf Guard
 
-Aviso esta app aun no esta terminada y puede que lo use de pago o free dependiendo como va
-
 <!--
 
 **Here are some ideas to get you started:**
