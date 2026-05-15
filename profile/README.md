@@ -2,19 +2,7 @@
 
 Este documento detalla la nomenclatura y los identificadores (IDs) asignados a cada componente del ecosistema **Crisutf Guard**, abarcando tanto la infraestructura del backend como los diversos agentes de cliente.
 
----
-
-## 1. Infraestructura Backend
-Componentes centrales encargados de la lógica de negocio, validación de licencias y gestión administrativa.
-
-| Componente | ID / Nombre Clave | Función | Estado |
-| :--- | :--- | :--- | :--- |
-| **Admin Control** | `Ocean` | Panel de control central y administración de licencias. | Operativo |
-| **Server Core** | `Snowed` | Procesamiento de peticiones y lógica del servidor de licencias. | Operativo |
-
----
-
-## 2. Agentes de Cliente (Desktop)
+## Agentes de Cliente (Desktop)
 Software instalado directamente en sistemas operativos de escritorio para la monitorización y protección.
 
 ### Windows Agent
@@ -34,7 +22,7 @@ Software instalado directamente en sistemas operativos de escritorio para la mon
 
 ---
 
-## 3. Agentes de Cliente (Mobile & Web)
+## Agentes de Cliente (Mobile & Web)
 Extensiones y aplicaciones para dispositivos móviles y navegación.
 
 ### Web Extension
